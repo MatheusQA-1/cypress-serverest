@@ -10,12 +10,21 @@
     "type": "git",
     "url": "git+https://github.com/MatheusQA-1/cypress-serverest.git"
   },
-  "keywords": ["cypress", "qa", "test-automation", "e2e", "api-testing"],
+  "keywords": [
+    "cypress",
+    "qa",
+    "test-automation",
+    "e2e",
+    "api-testing"
+  ],
   "author": "Matheus Sarto de Oliveira",
   "license": "MIT",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/MatheusQA-1/cypress-serverest/issues"
   },
-  "homepage": "https://github.com/MatheusQA-1/cypress-serverest#readme"
+  "homepage": "https://github.com/MatheusQA-1/cypress-serverest#readme",
+  "devDependencies": {
+    "cypress": "^16.1.1"
+  }
 }
