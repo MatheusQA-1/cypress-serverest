@@ -1,0 +1,11 @@
+# Dependências
+node_modules/
+
+# Artefatos gerados pelo Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# Variáveis de ambiente e credenciais
+cypress.env.json
+.env

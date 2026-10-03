@@ -1,0 +1,21 @@
+{
+  "name": "cypress-serverest",
+  "version": "1.0.0",
+  "description": "Automação de testes E2E e API com Cypress na aplicação ServeRest",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusQA-1/cypress-serverest.git"
+  },
+  "keywords": ["cypress", "qa", "test-automation", "e2e", "api-testing"],
+  "author": "Matheus Sarto de Oliveira",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MatheusQA-1/cypress-serverest/issues"
+  },
+  "homepage": "https://github.com/MatheusQA-1/cypress-serverest#readme"
+}
